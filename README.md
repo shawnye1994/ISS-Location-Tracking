@@ -10,4 +10,4 @@ Run the program:
 
 2. open the browser and navigate to http://127.0.0.1:8050/
 
-![alt text](https://github.com/shawnye1994/ISS-Location-Tracking/demo.png)
+![alt text](https://github.com/shawnye1994/ISS-Location-Tracking/blob/main/demo.png)
