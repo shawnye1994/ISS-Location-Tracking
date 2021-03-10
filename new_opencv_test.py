@@ -10,6 +10,9 @@ import cv2
 from collections import deque
 
 class VideoCamera(object):
+    """
+    Cache some frames for the beackend processing
+    """
     def __init__(self, cache_len = 3):
         self.video = cv2.VideoCapture(0)
         self.cache_frames = deque(maxlen = cache_len)
