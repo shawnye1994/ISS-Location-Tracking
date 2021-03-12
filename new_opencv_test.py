@@ -1,4 +1,3 @@
-##https://community.plotly.com/t/does-dash-support-opencv-video-from-webcam/11012/2
 
 import dash
 import dash_core_components as dcc
